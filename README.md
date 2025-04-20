@@ -2,7 +2,7 @@
 "My 100-day Python learning challenge – 10 minutes daily
 
 
-1	Print “Hello, World!” and your name using print()
+✅ 1	Print “Hello, World!” and your name using print()
 2	Take name and age as input and display a greeting
 3	Create a basic calculator (add, subtract, multiply, divide)
 4	Convert Celsius to Fahrenheit
